@@ -12,7 +12,7 @@ Eu trabalho com as seguintes tecnologias:
 
 # Social 
 
-[![Icone do facebook](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO_Gmh11VEDFRBYeuH0ZOTelF591p4o1KEjNQ2WA9nxENCrtiLgVmaySG&s=10)](Instagram.com/vitor.santanna2)
+[![Icone do facebook](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO_Gmh11VEDFRBYeuH0ZOTelF591p4o1KEjNQ2WA9nxENCrtiLgVmaySG&s=10)](https://www.Instagram.com/vitor.santanna2)
 
 
 
