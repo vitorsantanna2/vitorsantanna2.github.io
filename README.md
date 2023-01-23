@@ -3,6 +3,8 @@ Morador do Rio De Janeiro, 22 anos, Estudante de Engenharia de Software na 42 Ri
 
 Eu trabalho com as seguintes tecnologias:
 - Python.
+- Java.
+- JavaScript 
 - C.
 - Segurança da Informação.
 
