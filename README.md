@@ -16,12 +16,6 @@ Eu trabalho com as seguintes tecnologias:
 <a href="https://github.com/vitorsantanna2/project">NonTravel<br><img width=300 height=300 src="https://user-images.githubusercontent.com/79846426/202924989-dcd424c3-c726-4fb5-941e-4152ed36e022.png" >
 
 # Social 
-<table>
-<tr>
-  <td>
-    <img width=200 height=200 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO_Gmh11VEDFRBYeuH0ZOTelF591p4o1KEjNQ2WA9nxENCrtiLgVmaySG&s=10" href="instagram.com/vitor.santanna2"> </td>
-  <td>
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/vitorsantanna2/"> </td>
- </tr>
-  </table>
+<img align="justify" width=100 height=100 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO_Gmh11VEDFRBYeuH0ZOTelF591p4o1KEjNQ2WA9nxENCrtiLgVmaySG&s=10" href="instagram.com/vitor.santanna2">
+<img align="justify" width=100 height=100 src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/vitorsantanna2/">
 
