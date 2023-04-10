@@ -1,6 +1,5 @@
-<head>
-  <link rel="stylesheet" href="style.css" type="text/css"></head>
 # Portfólio de Vitor Sant' Anna 
+<link rel="stylesheet" href="style.css" type="text/css">
 Morador do Rio De Janeiro, 22 anos, Estudante de Engenharia de Software na 42 Rio, apaixonado por python, e em uma relação de amor e ódio com C!
 
 Eu trabalho com as seguintes tecnologias:
