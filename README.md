@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # João Vitor Sant'Anna
 
 **`Cybsecurity Analyst`** **`DevOps`** **`Web3 Developer`** **`Software Engineering`**
