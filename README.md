@@ -32,4 +32,6 @@ I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm a back-end deve
 
 * * *
 **Projects**
-[![202920146-7e5fbadf-d860-4161-b458-38cea5399dbd (1)](https://github.com/vitorsantanna2/vitorsantanna2.github.io/assets/95882160/2a582ee1-ad59-4d0f-acde-d1216e35dd19)](https://github.com/vitorsantanna2/NomTravel)
+
+
+[![Nom Travel](https://github.com/vitorsantanna2/vitorsantanna2.github.io/assets/95882160/2a582ee1-ad59-4d0f-acde-d1216e35dd19)](https://github.com/vitorsantanna2/NomTravel)
