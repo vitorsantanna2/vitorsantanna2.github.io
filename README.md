@@ -3,7 +3,7 @@
 **`Cybsecurity Analyst`** **`DevOps`** **`Web3 Developer`** **`Software Engineering`**
 
 I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm a back-end developer volunteer in the [Garrafa no Mar](https://github.com/garrafanomar), an Associate Degree IT at [FAETEC/RJ](http://www.faetec.rj.gov.br/) and a software engineer student at [42Rio](https://42.rio/). I'm very interested in the areas of Cybersecurity and DevOps.
-#
+<br>
 **Languages and tools that I've used during my learning journey:**
 
 ![c](https://user-images.githubusercontent.com/69059969/222242942-17a18754-a84e-4d8d-be59-60389c4f4b60.png)
@@ -17,7 +17,7 @@ I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm a back-end deve
 ![github](https://user-images.githubusercontent.com/69059969/222243273-d89993d1-da6f-4ae0-9116-6bfecacb2727.png)
 ![vim](https://user-images.githubusercontent.com/69059969/222243471-3da17d3a-9883-4710-bd98-4e4b1e4e63c2.png)
 
-#
+<br>
 **Badges**
 <!--START_SECTION:badges-->
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/59875e01-f963-42a9-ba8e-f0db0ab4ba0f "Introduction to Cybersecurity")
@@ -28,7 +28,7 @@ I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm a back-end deve
 [![Networking Devices and Initial Configuration](https://images.credly.com/size/110x110/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](http://www.credly.com/badges/3008812b-75de-45b0-9f7f-3d87978ad690 "Networking Devices and Initial Configuration")
 <!--END_SECTION:badges-->
 
-#
+<br>
 <img align="left" src="https://github.com/vitorsantanna2/vitorsantanna2/assets/95882160/f3f04752-6f9c-42ca-a1c0-803694cdfa17" width="48" height="50">
 <a href="github.com/garrafanomar"><img align="left" src="https://github.com/vitorsantanna2/vitorsantanna2/assets/95882160/0b21a256-a6b9-4b63-b1d7-35186203c417" width="40" height="50"></a>
 
