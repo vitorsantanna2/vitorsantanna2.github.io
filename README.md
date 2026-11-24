@@ -28,6 +28,7 @@ I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm a back-end deve
 [![Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](http://www.credly.com/badges/2d95cc59-d04c-4d5a-a494-dbb2c0de27d9 "Networking Basics")
 [![Networking Academy Learn-A-Thon 2023](https://images.credly.com/size/110x110/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png)](http://www.credly.com/badges/b089c881-9cd1-447a-9bd4-b684ba1938c0 "Networking Academy Learn-A-Thon 2023")
 [![Networking Devices and Initial Configuration](https://images.credly.com/size/110x110/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](http://www.credly.com/badges/3008812b-75de-45b0-9f7f-3d87978ad690 "Networking Devices and Initial Configuration")
+[![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/5e403764-0113-459a-96ac-3757259623b5/public_url)
 <!--END_SECTION:badges-->
 
 * * *
@@ -36,3 +37,5 @@ I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm a back-end deve
 
 [![Nom Travel](https://github.com/vitorsantanna2/vitorsantanna2.github.io/assets/95882160/2a582ee1-ad59-4d0f-acde-d1216e35dd19)](https://github.com/vitorsantanna2/NomTravel)
 [![TupiNymQuim](https://github.com/vitorsantanna2/vitorsantanna2.github.io/assets/95882160/52f3310a-e826-4c90-be75-77c1c07da7e3)](https://tupinymquim.github.io/)
+[![Fragata do Saber](https://github.com/user-attachments/assets/d3f81118-b33b-4570-bbf6-5313f65d89dd)](https://fragatadosaber.online/)
+[![Corre sem Freio](https://github.com/user-attachments/assets/778e6acc-4eed-48bb-9ecc-548fd4bbd701)](https://corresemfreio.online/)
