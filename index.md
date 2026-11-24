@@ -1,6 +1,6 @@
 # João Vitor Sant'Anna
 
-**`Cybsecurity Analyst`** **`DevOps`** **`Web3 Developer`** **`Software Engineering`**
+**`Cybsecurity Analyst`** **`Software Engineering`**
 
 I'm João Vitor Sant'Anna. Currently I'm a Software Engineer. I'm very interested in the areas of Cybersecurity and DevOps.
 * * *
